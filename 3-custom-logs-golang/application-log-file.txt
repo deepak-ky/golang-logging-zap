@@ -1,0 +1,3 @@
+INFO : 2023/12/19 16:55:55 main.go:45: email status: email sent successfully
+WARNING : 2023/12/19 16:55:55 main.go:48: request details: request with 0 size input array recieved. handled successfully
+ERROR : 2023/12/19 16:55:55 main.go:51: operation failed due to : connection timed out

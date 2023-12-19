@@ -1,0 +1,19 @@
+{"level":"debug","ts":"2023-12-19T18:30:31.275+0530","caller":"5-zap-logger/main.go:42","msg":"This is my first zap logger DEBUG message"}
+{"level":"info","ts":"2023-12-19T18:30:31.276+0530","caller":"5-zap-logger/main.go:44","msg":"This is my first zap logger INFO message","url":"wwww.deepak.com"}
+{"level":"warn","ts":"2023-12-19T18:30:31.277+0530","caller":"5-zap-logger/main.go:46","msg":"This is my first zap logger WARNING message","url":"wwww.deepak.com"}
+{"level":"error","ts":"2023-12-19T18:30:31.277+0530","caller":"5-zap-logger/main.go:48","msg":"This is my first zap logger ERROR message","url":"wwww.deepak.com","stacktrace":"main.main\n\tG:/golang-logging-zap/5-zap-logger/main.go:48\nruntime.main\n\tC:/Program Files/Go/src/runtime/proc.go:250"}
+{"level":"debug","ts":"2023-12-19T18:30:44.532+0530","caller":"5-zap-logger/main.go:42","msg":"This is my first zap logger DEBUG message"}
+{"level":"info","ts":"2023-12-19T18:30:44.533+0530","caller":"5-zap-logger/main.go:44","msg":"This is my first zap logger INFO message","url":"wwww.deepak.com"}
+{"level":"warn","ts":"2023-12-19T18:30:44.534+0530","caller":"5-zap-logger/main.go:46","msg":"This is my first zap logger WARNING message","url":"wwww.deepak.com"}
+{"level":"debug","ts":"2023-12-19T18:31:04.962+0530","caller":"5-zap-logger/main.go:42","msg":"This is my first zap logger DEBUG message"}
+{"level":"info","ts":"2023-12-19T18:31:04.963+0530","caller":"5-zap-logger/main.go:44","msg":"This is my first zap logger INFO message","url":"wwww.deepak.com"}
+{"level":"warn","ts":"2023-12-19T18:31:04.963+0530","caller":"5-zap-logger/main.go:46","msg":"This is my first zap logger WARNING message","url":"wwww.deepak.com"}
+{"level":"error","ts":"2023-12-19T18:31:04.963+0530","caller":"5-zap-logger/main.go:48","msg":"This is my first zap logger ERROR message","url":"wwww.deepak.com","stacktrace":"main.main\n\tG:/golang-logging-zap/5-zap-logger/main.go:48\nruntime.main\n\tC:/Program Files/Go/src/runtime/proc.go:250"}
+{"level":"info","ts":"2023-12-19T18:31:36.002+0530","caller":"5-zap-logger/main.go:44","msg":"This is my first zap logger INFO message","url":"wwww.deepak.com"}
+{"level":"warn","ts":"2023-12-19T18:31:36.003+0530","caller":"5-zap-logger/main.go:46","msg":"This is my first zap logger WARNING message","url":"wwww.deepak.com"}
+{"level":"error","ts":"2023-12-19T18:31:36.003+0530","caller":"5-zap-logger/main.go:48","msg":"This is my first zap logger ERROR message","url":"wwww.deepak.com","stacktrace":"main.main\n\tG:/golang-logging-zap/5-zap-logger/main.go:48\nruntime.main\n\tC:/Program Files/Go/src/runtime/proc.go:250"}
+{"level":"debug","ts":"2023-12-19T18:31:48.949+0530","caller":"5-zap-logger/main.go:42","msg":"This is my first zap logger DEBUG message"}
+{"level":"info","ts":"2023-12-19T18:31:48.951+0530","caller":"5-zap-logger/main.go:44","msg":"This is my first zap logger INFO message","url":"wwww.deepak.com"}
+{"level":"warn","ts":"2023-12-19T18:31:48.951+0530","caller":"5-zap-logger/main.go:46","msg":"This is my first zap logger WARNING message","url":"wwww.deepak.com"}
+{"level":"error","ts":"2023-12-19T18:31:48.952+0530","caller":"5-zap-logger/main.go:48","msg":"This is my first zap logger ERROR message","url":"wwww.deepak.com","stacktrace":"main.main\n\tG:/golang-logging-zap/5-zap-logger/main.go:48\nruntime.main\n\tC:/Program Files/Go/src/runtime/proc.go:250"}
+{"level":"error","ts":"2023-12-19T18:31:57.391+0530","caller":"5-zap-logger/main.go:48","msg":"This is my first zap logger ERROR message","url":"wwww.deepak.com","stacktrace":"main.main\n\tG:/golang-logging-zap/5-zap-logger/main.go:48\nruntime.main\n\tC:/Program Files/Go/src/runtime/proc.go:250"}
